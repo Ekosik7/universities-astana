@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Universities of Astana</title>
+</head>
+<body>
+
+    <h1>Universities of Astana</h1>
+
+    <h2>List of Universities</h2>
+    <ol>
+        <li>Nazarbayev University</li>
+        <li>Astana IT University</li>
+    </ol>
+
+    <h2>About Universities</h2>
+    <h3>Nazarbayev University</h3>
+    <p>Nazarbayev University (NU) is a modern research university in Astana. It offers programs in science, engineering, business, and humanities.</p>
+    <a href="https://nu.edu.kz" target="_blank">Visit Nazarbayev University</a>
+
+    <h3>Astana IT University</h3>
+    <p>Astana IT University (AITU) focuses on information technology, digital economy, and smart technologies.</p>
+    <a href="https://astanait.edu.kz" target="_blank">Visit Astana IT University</a>
+
+    <h2>Table of Universities</h2>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Website</th>
+        </tr>
+        <tr>
+            <td>Nazarbayev University</td>
+            <td>Astana</td>
+            <td><a href="https://nu.edu.kz">nu.edu.kz</a></td>
+        </tr>
+        <tr>
+            <td>Astana IT University</td>
+            <td>Astana</td>
+            <td><a href="https://astanait.edu.kz">astanait.edu.kz</a></td>
+        </tr>
+    </table>
+
+    <h2>Images</h2>
+    <p>Here are some photos:</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Nazarbayev_University_main_building.jpg" width="300" alt="Nazarbayev University">
+    <img src="https://astanait.edu.kz/wp-content/uploads/2020/01/aitu.jpg" width="300" alt="Astana IT University">
+
+    <h2>Button</h2>
+    <button>Click me</button>
+
+    <h2>Contact Form</h2>
+    <form>
+        <label>Email: <input type="email" name="email"></label><br><br>
+        <label>Password: <input type="password" name="password"></label><br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <footer>
+        <p>© 2025 Universities of Astana</p>
+    </footer>
+
+</body>
+</html>
+
